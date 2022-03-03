@@ -1,0 +1,8 @@
+h1,h2{
+    height: 50px; width: 200px; background-color: blue;
+    color: aqua;
+}
+
+h3{height: 50; width:200px; color: yellow; background-color: blueviolet;
+
+}
